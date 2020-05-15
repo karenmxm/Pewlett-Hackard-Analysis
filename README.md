@@ -4,7 +4,7 @@ Pewlett-Hackard is a big company with a large size of employees. As baby boomers
   - Offering retiring pacakge for those who meets certain criteria.
   - Getting information about which positions needed to be filled in near future.
   
-Based on these needs, we analized Pewlett-Hackard's employee data to provide information on
+Based on these needs, we analized Pewlett-Hackard's employee data to provide information on:
   - Who will be retiring in the next few years.
   - Which positions and how may positions will Pewlett-Hackard needs to fill.
   - Mentorship eligible employees to train new employees.
