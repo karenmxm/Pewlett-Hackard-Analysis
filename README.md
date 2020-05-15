@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-# Project Objectives
+## Project Objectives
 Pewlett-Hackard is a big company with a large size of employees. As baby boomers begin to retire at a rapid rate, Pewlett-Hackard is looking toward the future in two ways:
   - Offering retiring pacakge for those who meets certain criteria.
   - Getting information about which positions needed to be filled in near future.
