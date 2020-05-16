@@ -12,5 +12,4 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
 
 ## Analysis Procedure
 
-The tools we used to analyze Pewlett-Hackard employee data are PostgreSQL and pgAdmin. we used Postgres to create a database, and pgAdmin to work with the data imported.
-  - 
+The tools we used to analyze Pewlett-Hackard employee data are PostgreSQL and pgAdmin. we used Postgres to create a database, and pgAdmin to work with the data imported.- 
