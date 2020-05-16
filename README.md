@@ -61,6 +61,8 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
          * [Retiring Employees per Title](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_per_title.csv)
          
 
-
+<p align="center">
+  <EmployeeDB/>
+</p>
 
 
