@@ -75,4 +75,5 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   
 - Recommendations
   - The top three positions, Engineer, Staff and Technique Leader are on the top of the list to fill in.
+  - Managers in Sales and Research departments need to be filled in near future.
   - Pewlett-Hackard need set new criteria for mentorship eligibility to increase the number of employees that are eligible for mentorship.
