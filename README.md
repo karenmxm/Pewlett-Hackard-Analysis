@@ -25,12 +25,15 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - Query current retiring employees born between Jan. 1, 1952 and Dec. 31, 1955.
     - Use INNER JOIN and LEFT JOIN to merge data sets: employee, dept_emp, titles and salaries.
     - Use WHERE and AND to query current retiring employees.
-    - Use PARTITION to query only the most recent title of each employee.
-    
+    - Use PARTITION BY to query only the most recent title of each employee.  
   - Query how many empoyees are retiring for each title.
+    - Use COUNT() function, PARTITION BY and GROUP BY to query the number of employees per title.
   - Query how many titles have retiring employees.
+    - Use COUNT() function to count the number of titles that have retiring employees. 
   - Query how many employees are eligible for mentiorship for new employees.
-  
+    - Use INNER JOIN to merge data sets: employee, dept_emp, titles and salaries.
+    - Use WHERE and AND to query current employees who have a date of birth that falls between January 1, 1965 and December 31, 1965 to be eligible to participate in the mentorship program.
+    - Use PARTITION BY to query only the most recent title of each employee.  
   
   <p align="center">
   <img src="EmployeeDB.png">
