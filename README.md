@@ -58,7 +58,7 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
          - Senior Engineer (25916) 
          - Senior Staff (24926) 
          - Engineer (9285) 
-         - Staff(7636) 
+         - Staff (7636) 
          - Technique Leader (3603)
          - Assistant Engineer (1090)
          - Manager (2)
