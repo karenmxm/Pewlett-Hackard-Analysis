@@ -44,7 +44,7 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
      </p>
      
      - List of CSV Files
-       - current_retirement_info.csv: Current retiring empoyees with duplicate titles. 
+       - [current_retirement_info.csv](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_info.csv): Current retiring empoyees with duplicate titles. 
        - current_retirement_recent_title_info.csv: Current retiring empoyees with most current title.
        - current_retirement_per_title.csv: Number of employees per title.
        - current_mentor_info.csv: Current employees who are eligible for mentorship roles.
