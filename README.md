@@ -8,3 +8,5 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - Who will be retiring in the next few years.
   - Which positions and how may positions will Pewlett-Hackard needs to fill.
   - Mentorship eligible employees to train new employees.
+
+## Analysis Procedure
