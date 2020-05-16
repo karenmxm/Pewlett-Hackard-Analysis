@@ -67,8 +67,10 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
 
 - Analysis
   - The number of retiring engineers (36,291) at three different ranks is the largest among all the titles that have retiring employees.
-  - The number of staffs (32,562) at two diffferent ranks is the second largest among all positions that have retiring employees.
+  - The number of retiring staffs (32,562) at two diffferent ranks is the second largest among all positions that have retiring employees.
+  - The number of retring Techique Leaders (3,063), although much smaller than Engineer and Staff, is still needed to prepare to fill in.
   - There is a large shortage between retiring employees (72,458) and available employees who are eligible for mentor roles (1,549).
   
 - Recommendations
-  - Pewlett-Hackard set new criteria for mentorship eligibility to increase the number of employees that are eligible for mentorship.
+  - The top three positions, Engineer, Staff and Technique Leader are on the top of the list to fill in.
+  - Pewlett-Hackard need set new criteria for mentorship eligibility to increase the number of employees that are eligible for mentorship.
