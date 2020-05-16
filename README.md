@@ -43,7 +43,14 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
      <img src="https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png">
      </p>
      
-     - There are 72,458 employees are retiring in near future.
+     - List of CSV Files
+       - current_retirement_info.csv: Current retiring empoyees with duplicate titles. 
+       - current_retirement_recent_title_info.csv: Current retiring empoyees with most current title.
+       - current_retirement_per_title.csv: Number of employees per title.
+       - current_mentor_info.csv: Current employees who are eligible for mentorship roles.
+       - retirement_title_count.csv: Count how many titles have retiring employees.
+      
+      - There are 72,458 employees are retiring in near future.
         - [Retiring Employees](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_info.csv)
         - [Retiring Employees Most Current Title](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_recent_title_info.csv)
      - There are 7 titles have retiring employees: 
@@ -77,9 +84,4 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - Managers in Sales and Research departments need to be filled in near future.
   - Pewlett-Hackard need set new criteria for mentorship eligibility to increase the number of employees that are eligible for mentorship.
 
-- List of CSV Files
-  - current_retirement_info.csv: Current retiring empoyees with duplicate titles. 
-  - current_retirement_recent_title_info.csv: Current retiring empoyees with most current title.
-  - current_retirement_per_title.csv: Number of employees per title.
-  - current_mentor_info.csv: Current employees who are eligible for mentorship roles.
-  - retirement_title_count.csv: Count how many titles have retiring employees.
+
