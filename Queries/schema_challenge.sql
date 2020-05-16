@@ -1,3 +1,6 @@
+DROP TABLE titles CASCADE
+SELECT * FROM titles
+
 -- Creating tables for PH-EmployeeDB
 CREATE TABLE departments (
      dept_no VARCHAR(4) NOT NULL,
@@ -101,8 +104,8 @@ ORDER BY emp_no;
 SELECT * FROM current_retirement_recent_title_info;
 
 --Get number of emloyees retiring per title
-SELECT COUNT (title) title_count,title
-INTO current_retirement_per_title
+SELECT COUNT (title) title_count, title
+--INTO current_retirement_per_title
 FROM 
 (SELECT emp_no,
     first_name,
@@ -124,10 +127,10 @@ FROM
     FROM current_retirement_recent_title_info AS cr) 
 	  tmp WHERE rn = 1
 ORDER BY emp_no) AS sub
-GROUP BY title;
+GROUP BY title
+ORDER BY title_count DESC;
 -- Check the table
 SELECT * FROM current_retirement_per_title;
-
 
 -- Get number of retiring titles
 SELECT COUNT (ct.title_count) title_count
@@ -166,4 +169,6 @@ FROM
 ORDER BY emp_no;
 -- Check the table
 SELECT * FROM current_mentor_info;
+
+
 
