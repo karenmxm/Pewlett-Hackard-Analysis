@@ -19,9 +19,6 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
 
 ### Procedure
   - Identify data relationships and create Entity Relationship Diagrams.
-    <p align="center">
-  <img src="EmployeeDB.png">
-</p>
   - Lauch pgAdmin4 and create database.
   - Create tables in SQL.
   - Import six data sets into tables created in SQL in last step.
@@ -37,6 +34,10 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
     - Use INNER JOIN to merge data sets: employee, dept_emp, titles and salaries.
     - Use WHERE and AND to query current employees who have a date of birth that falls between January 1, 1965 and December 31, 1965 to be eligible to participate in the mentorship program.
     - Use PARTITION BY to query only the most recent title of each employee.  
+    
+        <p align="center">
+  <img src="EmployeeDB.png">
+</p>
  
  ### Results and Analysis
  #### Results
