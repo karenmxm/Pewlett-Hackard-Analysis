@@ -1,5 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Project Objectives
+
 Pewlett-Hackard is a big company with a large size of employees. As baby boomers begin to retire at a rapid rate, Pewlett-Hackard is looking toward the future in two ways:
   - Offering retiring pacakge for those who meets certain criteria.
   - Getting information about which positions needed to be filled in near future.
@@ -10,3 +11,6 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - Mentorship eligible employees to train new employees.
 
 ## Analysis Procedure
+
+The tools we used to analyze Pewlett-Hackard employee data are PostgreSQL and pgAdmin. we used Postgres to create a database, and pgAdmin to work with the data imported.
+  - 
