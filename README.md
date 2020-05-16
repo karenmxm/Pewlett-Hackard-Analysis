@@ -40,9 +40,10 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
      - EDA image shows data relationships.
      - There are 72,458 employees are retiring in near future.
      - There are 1,549 employees are available for mentor roles.
-     - There are 7 titles have retiring employees. 
+       * The employees are available for mentor roles are in the following 9 departments: Development, Production, Sales, Customer Service, Marketing, Research, Human Resources, Quality Management and Finance.
+     - There are 7 titles have retiring employees: Senior Engineer (25916), Senior Staff (24926), Engineer (9285), Staff(7636), Technique Leader (3603), Assistant Engineer (1090), Manager (2).
        * [Retiring Employees per Title](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_per_title.csv)
-
+       
    </p>
    <p align="center">
    <img src="EmployeeDB.png">
