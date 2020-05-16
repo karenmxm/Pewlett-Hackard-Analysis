@@ -41,7 +41,8 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
      - There are 72,458 employees are retiring in near future.
      - There are 1,549 employees are available for mentor roles.
      - There are 7 titles have retiring employees.
-     csvtomd current_retirement_per_title.csv
+     
+     pandoc-placetable --current_retirement_per_title.csv | pandoc -f json -t gfm 
 
    </p>
    <p align="center">
