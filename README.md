@@ -62,7 +62,7 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
          
 
 <p align="center">
-  <img src="EmployeeDB">
+  <img src="https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png">
 </p>
 
 
