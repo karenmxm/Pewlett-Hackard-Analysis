@@ -42,7 +42,7 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
      - There are 1,549 employees are available for mentor roles.
      - There are 7 titles have retiring employees.
      
-     pandoc-placetable --current_retirement_per_title.csv | pandoc -f json -t gfm 
+[](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_per_title.csv)
 
    </p>
    <p align="center">
