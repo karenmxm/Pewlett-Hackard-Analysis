@@ -45,21 +45,21 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
         - [Retiring Employees Most Current Title](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_recent_title_info.csv)
      - There are 7 titles have retiring employees: 
        - [Retiring Employees per Title](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_per_title.csv)
-       - Senior Engineer (25916) 
-       - Senior Staff (24926) 
-       - Engineer (9285) 
-       - Staff(7636) 
-       - Technique Leader (3603)
-       - Assistant Engineer (1090)
-       - Manager (2)
+         - Senior Engineer (25916) 
+         - Senior Staff (24926) 
+         - Engineer (9285) 
+         - Staff(7636) 
+         - Technique Leader (3603)
+         - Assistant Engineer (1090)
+         - Manager (2)
      - There are 1,549 employees are available for mentor roles. The employees are available for mentor roles are in the following 6 titles: 
        - [Mentor Eligible Employees](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_mentor_info.csv)
-       - Staff
-       - Senior Staff 
-       - Engineer 
-       - Senior Engineer
-       - Technique Leader
-       - Assistant Engineer
+         - Staff
+         - Senior Staff 
+         - Engineer 
+         - Senior Engineer
+         - Technique Leader
+         - Assistant Engineer
 
 <p align="center">
   <img src="https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png">
