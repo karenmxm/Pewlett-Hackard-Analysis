@@ -38,6 +38,14 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
  ### Results and Analysis
    - Results
      - EDA image shows data relationships.
+        </p>
+   <p align="center">
+   <img src="EmployeeDB.png">
+   </p>
+     
+     
+     
+     
      - There are 72,458 employees are retiring in near future.
      - There are 1,549 employees are available for mentor roles. The employees are available for mentor roles are in the following 9 departments: 
        - Development 
