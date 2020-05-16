@@ -30,5 +30,5 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   
  
   <p align="center">
-  <img src="EmployeeDB">
+  <img src="EmployeeDB.png">
 </p>
