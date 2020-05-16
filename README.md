@@ -23,6 +23,10 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - Create tables in SQL.
   - Import six data sets into tables created in SQL in last step.
   - Query current retiring employees born between Jan. 1, 1952 and Dec. 31, 1955.
+    - Use INNER JOIN and LEFT JOIN to merge data sets: employee, dept_emp, titles and salaries.
+    - Use WHERE and AND to query current retiring employees.
+    - Use PARTITION to query only the most recent title of each employee.
+    
   - Query how many empoyees are retiring for each title.
   - Query how many titles have retiring employees.
   - Query how many employees are eligible for mentiorship for new employees.
