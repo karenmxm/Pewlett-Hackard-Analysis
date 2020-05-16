@@ -65,10 +65,6 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
          - Technique Leader
          - Assistant Engineer
 
-<p align="center">
-  <img src="https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png">
-</p>
-
 - Analysis
   - The number of retiring engineers (36,291) in three different ranks is the largest among all the titles that have retiring employees.
   - The number of retiring staffs (32,562) in two diffferent ranks is the second largest among all positions that have retiring employees.
