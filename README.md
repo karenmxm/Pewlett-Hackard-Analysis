@@ -69,7 +69,7 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - The number of retiring engineers (36,291) in three different ranks is the largest among all the titles that have retiring employees.
   - The number of retiring staffs (32,562) in two diffferent ranks is the second largest among all positions that have retiring employees.
   - The number of retring Techique Leaders (3,063), although much smaller than Engineer and Staff, is still needed to prepare to fill in.
-  - Although there are only 2 Managers are retiring, this is 22% of the managers since there are only 9 departments in Pewlett-Hackard.
+  - Although there are only 2 retiring Managers, this is 22% of the managers since there are only 9 departments in Pewlett-Hackard.
   - There is a large shortage between retiring employees (72,458) and available employees who are eligible for mentor roles (1,549).
   
 - Recommendations
