@@ -36,7 +36,8 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
     - Use PARTITION BY to query only the most recent title of each employee.  
     
  ### Results and Analysis
- #### Results
+   - Results
+     - EDA image shows data relationships;
 
 
 <p align="center">
