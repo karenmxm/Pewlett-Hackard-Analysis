@@ -27,5 +27,6 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - Query how many titles have retiring employees.
   - Query how many employees are eligible for mentiorship for new employees.
   
-![](EmployeeDB.png)  
+  
+-> ![](EmployeeDB.png) <-
   
