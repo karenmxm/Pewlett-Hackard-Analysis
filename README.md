@@ -43,7 +43,6 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
      <img src="https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png">
      </p>
      
-       * [EmployeeDB](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
      - There are 72,458 employees are retiring in near future.
         - [Retiring Employees](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_info.csv)
         - [Retiring Employees Most Current Title](https://github.com/karenmxm/Pewlett-Hackard-Analysis/blob/master/Data/current_retirement_recent_title_info.csv)
