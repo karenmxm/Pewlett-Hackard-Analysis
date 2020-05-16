@@ -42,10 +42,10 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
      - There are 1,549 employees are available for mentor roles.
      - There are 7 titles have retiring employees.
 
-</p>
-<p align="center">
-  <img src="EmployeeDB.png">
-</p>
+    </p>
+    <p align="center">
+    <img src="EmployeeDB.png">
+    </p>
 
 
    - There are 7 titles have retiring employees.
