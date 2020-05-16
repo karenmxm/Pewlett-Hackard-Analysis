@@ -19,6 +19,9 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
 
 ### Procedure
   - Identify data relationships and create Entity Relationship Diagrams.
+    <p align="center">
+  <img src="EmployeeDB.png">
+</p>
   - Lauch pgAdmin4 and create database.
   - Create tables in SQL.
   - Import six data sets into tables created in SQL in last step.
@@ -37,7 +40,4 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
  
  ### Results and Analysis
  #### Results
-   
-  <p align="center">
-  <img src="EmployeeDB.png">
-</p>
+
