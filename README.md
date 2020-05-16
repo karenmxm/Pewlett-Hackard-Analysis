@@ -12,4 +12,19 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
 
 ## Analysis Procedure
 
-The tools we used to analyze Pewlett-Hackard employee data are PostgreSQL and pgAdmin. we used Postgres to create a database, and pgAdmin to work with the data imported.- 
+### Tools
+  - Postgres for creating a database
+  - pgAdmin4 for working with the data imported
+  - QuickDBD for Entity Relationship Diagrams(ERD)
+
+### Procedure
+  - Identify data relationships and create Entity Relationship Diagrams.
+  - Lauch pgAdmin4 and create database.
+  - Create tables in SQL.
+  - Import six data sets into tables created in SQL in last step.
+  - Query current retiring employees born between Jan. 1, 1952 and Dec. 31, 1955.
+  - Query how many empoyees are retiring for each title.
+  - Query how many titles have retiring employees.
+  - Query how many employees are eligible for mentiorship for new employees.
+  
+  
