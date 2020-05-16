@@ -76,3 +76,10 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - The top three positions, Engineer, Staff and Technique Leader are on the top of the list to fill in.
   - Managers in Sales and Research departments need to be filled in near future.
   - Pewlett-Hackard need set new criteria for mentorship eligibility to increase the number of employees that are eligible for mentorship.
+
+- List of CSV Files
+  - current_retirement_info.csv: Current retiring empoyees with duplicate titles. 
+  - current_retirement_recent_title_info.csv: Current retiring empoyees with most current title.
+  - current_retirement_per_title.csv: Number of employees per title.
+  - current_mentor_info.csv: Current employees who are eligible for mentorship roles.
+  - retirement_title_count.csv: Count how many titles have retiring employees.
