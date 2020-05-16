@@ -71,7 +71,7 @@ Based on these needs, we analized Pewlett-Hackard's employee data to provide inf
   - The number of retring Techique Leaders (3,063), although much smaller than Engineer and Staff, is still needed to prepare to fill in.
   - Although there are only 2 retiring Managers, this is 22% of the managers since there are only 9 departments in Pewlett-Hackard.
   - There is a large shortage of available employees who are eligible for mentor roles. 
-    - Total retiring employees (72,458) and mentorship eligible employees (1,549).
+    - Total retiring employees (72,458) vs. mentorship eligible employees (1,549).
   
 - Recommendations
   - The top three positions, Engineer, Staff and Technique Leader are on the top of the list to fill in.
